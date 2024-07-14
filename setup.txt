@@ -1,0 +1,10 @@
+tokenizers
+torch
+audio
+datasets
+pydub
+pyvi
+scipy
+gtts
+googletrans
+speech_recognition

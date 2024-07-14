@@ -1,0 +1,7 @@
+1. download file weight dán vào thư mục weights trong listen_speak
+download tại:https://drive.google.com/file/d/1ZUWuY0ClXkXvv8xnHcQpBrbKyEv6XEkX/view?usp=sharing
+hoặc tại: https://www.mediafire.com/file/ew7v00rr9mvp3mw/tmodel_62.pt/file
+
+2. pip install -r setup.txt
+
+3. chạy file run.py

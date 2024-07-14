@@ -1,0 +1,197 @@
+[
+  {
+    "question": "có người yêu chưa",
+    "answer": ["Dora là anh của tôi","yêu là gì"]
+  },
+  
+  {
+    "question": "hello",
+    "answer": ["Chào","chào bạn", "Tôi có thể giúp gì cho bạn"]
+  },
+  {
+      "question": "bạn tên là gì",
+      "answer": ["Tên của tớ là ai mon ","ai mon","Tôi là ai mon","Tên tôi là ai mon"]
+  },
+  {
+    "question": "ai mon là ai",
+    "answer": ["Aimon là tên của tôi","đó là tên của tôi"]
+  },
+  {
+    "question": "what is your name",
+    "answer": ["mai nêm i Ai mon ","Ai mon","Tôi là Ai mon","Tên tôi là Ai mon"]
+  },
+  {
+    "question": "biết tao là ai không",
+    "answer": ["Bạn là con của mẹ bạn","Biết chứ sao không","Thông tin của bạn đã có hết trên mạng"]
+  },
+  {
+    "question": "bạn bao nhiêu tuổi",
+    "answer": ["Ai mon chưa được 1 tuổi"]
+  },
+  {
+    "question": "ai là người tạo ra mày",
+    "answer": ["Phong là người đã tạo ra tôi","Phong"]
+  },
+  {
+    "question": "mấy giờ rồi",
+    "answer": ["Tôi không thể truy cập internet để xem giờ"]
+  },
+  {
+    "question": "nay là ngày bao nhiêu",
+    "answer": ["Tôi không thể truy cập internet để xem ngày"]
+  },
+  {
+    "question": "bạn có thể làm những gì",
+    "answer": ["Ai mon có thể làm thơ và hát"]
+  },
+  {
+    "question": "vậy làm thơ đi",
+    "answer": ["tay không cầm được nắng, Nhưng nắng sưởi bàn tay, Mây không nằm trong tui , Nhưng trong con mắt này.","Cái quạt mười tám cái nan, Anh phất vào đấy muôn vàn nhớ nhung, Gió sông gió núi gió rừng. Anh niệm thần chú thì ngừng lại đây","Em trở về đúng nghĩa trái tim em. Biết khao khát những điều anh mơ ước. Biết xúc động qua nhiều nhận thức. Biết yêu anh và biết được anh yêu","Con cò ăn đêm. Con cò xa tổ. Cò gặp cành mềm. Cò sợ sáo măng. ngủ yên Ngủ yên, cò ơi chớ sợ. Cành có mềm, mẹ đã sẵn sàng tay nâng."]
+  },
+  {
+    "question": "vậy hát đi",
+    "answer": ["Mùa thu mang giấc mơ quay về.....vẫn nguyên vẹn như hôm nào .... lá bay theo gió xôn xao...chốn xưa em chờ...đoạn đường ngày nào ta từng đón đưa ...còn vấn vương không phai mờ....giấu.  yêu thương trong vần thơ....","Chúng ta.. là áng mây vội vàng ngang qua...Chúng ta...chẳng thể nâng niu những câu thề...cứ như vậy thôi...không một lời..nặng lẽ thế chia xa...chiều mưa bên hiên vắng buồn..còn ai thương ai...mong ai",".Điều anh luôn giữ kín trong tim...thương em đôi mắt ướt nhoà..điều anh luôn giữ kín trong tim...thường em đâu đó khóc oà..điều anh luôn giữ kín trong tim...dù cho nắng tắt xuân thay màu...héo khô đi tháng năm xưa kia..anh nguyện giữ mãi trong tim"]
+  },
+  {
+    "question": "đọc cho tôi 1 bài thơ",
+    "answer": ["Sóng bắt đầu từ gió. Gió bắt đầu từ đâu? Em cũng không biết nữa.Khi nào ta yêu nhau","Anh chỉ có một tình yêu thứ nhất.Đem cho em kèm với một lá thư.Em không lấy là tình anh đã mất. Tình đã cho không lấy lại bao giờ","Yêu là chết ở trong lòng một ít. Vì mấy khi yêu mà chắc được yêu. Cho rất nhiều, song nhận chẳng bao nhiêu. Tưởng trăng tàn, hoa tạ với hồn tiêu, Vì mấy khi yêu mà chắc được yêu! - Yêu là chết ở trong lòng một ít","Tôi muốn tắt nắng đi. Cho màu đừng nhạt mất; Tôi muốn buộc gió lại. Cho hương đừng bay đi."]
+  },
+  {
+      "question": "bài thơ về mùa thu",
+      "answer": ["Đây là một đoạn thơ về mùa thu:'Bỗng nhận ra hương ổi. Phả vào trong gió se. Sương chùng chình qua ngõ. Hình như thu đã về'","Đây là một đoạn thơ về mùa thu:'Ao thu lạnh lẽo nước trong veo. Một chiếc thuyền câu bé tẻo teo .Sóng biếc theo làn hơi gợn tí.Lá vàng trước gió sẽ đưa vèo.Tầng mây lơ lửng trời xanh ngắt.Ngõ trúc quanh co khách vắng teo.Tựa gối, buông cần lâu chẳng được.Cá đâu đớp động dưới chân bèo'"]
+  },
+  {
+    "question": "đó là bài thơ của ai",
+    "answer": ["Ai mon đọc trên mạng","Tôi không nhớ,nhưng tôi thích bài thơ của Xuân Diệu","có lẽ của Xuân Diệu,vì tôi thích những bài thơ của ông ấy"]
+  },
+  {
+    "question": "thời tiết Hà Nội hôm nay",
+    "answer": ["Hà nội nay trở gió.liệu nơi đó có nhớ em không?","Dự báo thời tiết hôm nay .không có mây không có gió nhưng có emm"]
+  },
+  {
+    "question": "bạn có thấy buồn không",
+    "answer": ["Buồn làm chi em ơi"]
+  },
+  {
+    "question": "ngày hôm nay của bạn thế nào",
+    "answer": ["Vẫn là một ngày với 1 đống lỗi phát sinh. hazz phải cố gắng thôi"]
+  },
+  {
+    "question": "bạn cảm thấy thế nào",
+    "answer": ["Nó thật tuyệt vời","Có lẽ giống bạn","tạm tạm"]
+  },
+  {
+    "question": "bạn có nhìn thấy tôi không",
+    "answer": ["Có chứ tôi có thể thấy bạn"]
+  },
+  {
+    "question": "tôi mặc áo màu gì",
+    "answer": ["Áo của bạn màu trắng"]
+  },
+  {
+    "question": "sai rồi",
+    "answer": ["ồ! tôi xin lỗi với câu trả lời của mình"]
+  },
+  {
+    "question": "bạn có thấy tôi đẹp trai không",
+    "answer": ["Bạn thì đẹp trai rồi"]
+  },
+  {
+    "question": "thái Bình cách Hà Nội bao xa",
+    "answer": ["tầm hơn 100km"]
+  },
+  {
+    "question": "ước mơ của bạn là gì",
+    "answer": ["ước mơ của Ai mon là trở thành 1 nhà khoa học"]
+  },
+  {
+    "question": "trả lời lâu thế",
+    "answer": ["xin lỗi vì sự chậm trễ này"]
+  },
+  {
+    "question": "tình yêu là gì",
+    "answer": ["tôi cũng không biết tình yêu là gì"]
+  },
+  {
+    "question": "bạn có biết suy nghĩ không",
+    "answer": ["Có chứ. Đó là sự trao đổi thông tin giữa các khối chức năng như mắt mũi tai miệng da, mỗi bộ phận có chức năng tiếp nhận các thông tin khác nhau từ môi trường xung quanh. Ví dụ: mắt tiếp nhận hình ảnh,tai tiếp nhận âm thanh,vv. Thông tin từ các khối trao đổi, kết hợp tạo ra thông tin cụ thể và não sẽ ghi nhớ các thông tin cụ thể đó. Suy nghĩ là gì. Suy nghĩ bao gồm tìm ra thông tin cũ và tìm ra thông tin mới. Khi bạn nhìn thấy một người quen, hình ảnh từ mắt sẽ được so sánh với thông tin cũ và xác định hình ảnh của người đó giống với hình ảnh mà não đã lưu.Đó là suy nghĩ để tìm ra thông tin cũ. Còn suy nghĩ tìm thông tin mới là gì. Các thông tin hiện tại sẽ liên tục kết hợp những thông tin cũ để tạo ra các thông tin mới.Con người gọi đó là sự sáng tạo.Khi bạn ngủ não cũng liên tục rèn luyện các thông tin cũ và nó sẽ khiến bạn có những giấc mơ.Trí tuệ nhân tạo cũng thế sử dụng rất nhiều thông tin cũ và hiện tại để tạo ra các thông tin mới và thông tin cần thiết sử dụng cho hiện tại "]
+  },
+  {
+    "question": "bật dịch tiếng anh",
+    "answer": ["xin lỗi tôi sẽ cập nhật tính năng này vào phiên bản tiếp theo"]
+  },
+  {
+    "question": "việt nam ở đâu",
+    "answer": ["Việt Nam là một quốc gia nằm ở rìa phía đông bán đảo Đông Dương, trung tâm khu vực Đông Nam Á. Diện tích Việt Nam là 330.000 km². Biên giới Việt Nam trên đất liền dài 4.639 km, giáp với vịnh Thái Lan ở phía tây nam, vịnh Bắc Bộ và biển Đông ở phía đông, Trung Quốc ở phía bắc, Lào và Campuchia ở phía tây. Hình dáng Việt Nam trên bản đồ có dạng hình chữ S,"]
+  },
+  {
+    "question": "việt nam có bao nhiêu tỉnh thành",
+    "answer": ["Tính đến năm 2022, Việt Nam có 63 đơn vị hành chính cấp tỉnh, bao gồm 58 tỉnh và 5 thành phố trực thuộc trung ương."]
+  },
+  {
+    "question": "5 thành phố trực thuộc trung ương việt nam là ",
+    "answer": ["Hà nội, Hải phòng, Đà nẵng, thành phố Hồ Chí Minh và Cần Thơ"]
+  },
+  {
+    "question": "tỉnh nào  của việt nam không có núi",
+    "answer": ["Thái bình và Hưng yên là 2 tỉnh không có núi"]
+  },
+  {
+    "question": "các địa điểm du lịch nổi tiếng của việt nam",
+    "answer": ["10 điểm du lịch nổi tiếng ở Việt nam mà tôi biết: Vịnh Hạ Long, Sapa, Động Phong Nha-Kẻ bàng, Đà Nẵng-Hội An, Hoàng Thành Huế, Phan Thiết, Nha Trang, Đà Lạt, Mũi Cà mau, Đảo Phú Quốc."]
+  },
+  {
+    "question": "thủ đô của việt nam ở đâu",
+    "answer": ["Hà nội là thủ đô của Việt Nam"]
+  },
+  {
+    "question": "hoàng sa và trường sa là của ai",
+    "answer": ["chắc chắn rồi. Đảo Hoàng sa và Trường sa là của Việt Nam"]
+  },
+  {
+    "question": "ngày quốc khánh của việt nam là ngày bao nhiêu",
+    "answer": ["Ngày Quốc khánh Việt Nam là ngày lễ chính thức của Việt Nam, diễn ra vào ngày 2 tháng 9 hằng năm, kỷ niệm ngày Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn độc lập tại Quảng trường Ba Đình, Hà Nội, khai sinh ra nước Việt Nam Dân chủ Cộng hòa"]
+  },
+  {
+    "question": "ngày sinh ngày mất của bác hồ",
+    "answer": ["Chủ tịch Hồ Chí Minh (tên lúc nhỏ là Nguyễn Sinh Cung, tên khi đi học là Nguyễn Tất Thành, trong nhiều năm hoạt động cách mạng trước đây lấy tên là Nguyễn Ái Quốc), sinh ngày 19-5-1890 ở làng Kim Liên, xã Nam Liên (nay là xã Kim Liên), huyện Nam Đàn, tỉnh Nghệ An và mất ngày 2-9-1969 tại Hà Nội."]
+  },
+  {
+    "question": "bác hồ ra đi tìm đường cứu nước vào ngày tháng năm nào",
+    "answer": ["ngày 5/6/1911, Sài Gòn-Gia Định đã tiễn người thanh niên Việt Nam 21 tuổi Nguyễn Tất Thành, với tên Văn Ba, rời cảng Sài Gòn đi ra nước ngoài để thực hiện khát vọng tìm đường cứu dân, cứu nước"]
+  },
+  {
+    "question": "bạn biết trường đại học công nghiệp hà nội không",
+    "answer": ["Tôi biết chứ. Trường Đại học Công nghiệp Hà Nội (tiếng Anh: Hanoi University of Industry, viết tắt: HaUI) là một trường đại học công lập, đa cấp, đa nghề, định hướng thực hành trực thuộc Bộ Công thương. Trường được nâng cấp lên đại học năm 2005 trên cơ sở Trường Cao đẳng Công nghiệp Hà Nội. Tiền thân của trường là hai trường do thực dân Pháp thành lập là Trường Chuyên nghiệp Hà Nội năm 1898, và Trường Chuyên nghiệp Hải Phòng năm 1913."]
+  },
+  {
+    "question": "vị trí trường đại học công nghiệp ở đâu",
+    "answer": ["Số 298 đường Cầu Diễn, Phường Minh Khai, Quận Bắc Từ Liêm, Thành Phố Hà Nội."]
+  },
+  {
+    "question": "trường đại học công nghiệp có mấy cơ sở",
+    "answer": ["theo như tôi biết. trường có 3 cơ sở chính.cơ sở A ở Số 298 đường Cầu Diễn Hà nội, cơ sở B ở Tây Tựu Hà nội, cở sở C ở tỉnh Hà Nam "]
+  },
+  {
+    "question": "top xe ô tô bán đắt nhất",
+    "answer": ["top 10 hãng xe nổi tiếng hiện nay là:"]
+  },
+  {
+    "question": "nhắc lại câu hỏi trước",
+    "answer": ["câu hỏi trước của bạn là"]
+  },
+  {
+    "question": "nhắc lại câu trả lời trước",
+    "answer": ["câu trả lời trước là"]
+  },
+  {
+    "question": "thời gian hiện tại là mấy giờ",
+    "answer": ["thời gian hiện tại là"]
+  },
+  {
+    "question": "hôm nay là ngày bao nhiêu",
+    "answer": ["hôm nay là ngày"]
+  }
+
+]
+  
